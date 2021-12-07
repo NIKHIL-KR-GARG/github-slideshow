@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+new text as requested by the review
 Use the left arrow to go back!
